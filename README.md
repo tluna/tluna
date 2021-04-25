@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Theddy Luna!
+---
+![Twitter Follow](https://img.shields.io/twitter/follow/LunaTheddy?label=S%C3%ADgueme%20en%20Twitter&style=social)
 
 <!--
 **tluna/tluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
