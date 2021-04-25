@@ -1,6 +1,6 @@
 ### Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Soy Theddy Luna!
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/LunaTheddy?label=S%C3%ADgueme%20en%20Twitter&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/LunaTheddy?label=S%C3%ADgueme%20en%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=LunaTheddy)
 
 Ingeniero de software especializado en tecnologías Java. Experiencia profesional y entrenamiento constante con las tecnologías enumeradas en la caja de herramientas a continuación.
 
