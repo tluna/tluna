@@ -19,9 +19,7 @@ Espero llegar y ayudar a más personas compartiendo mi conocimiento.
 
 ## &#x1f4c8; Mis Estadisticas en Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tluna&hide=java,html,css&theme=highcontrast&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Theddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tluna&show_icons=true&theme=highcontrast&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tluna&hide=java,html,css&theme=highcontrast&locale=es)](https://github.com/anuraghazra/github-readme-stats)  [![Theddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tluna&show_icons=true&theme=highcontrast&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
